@@ -1,0 +1,36 @@
+_repo: L-Asie-inconnue-b-a-travers-le-Tibet_73033
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bonvalot, Gabriel
+    alias: Bonvalot, Pierre-Gabriel
+    birthdate: 1853
+    deathdate: 1933
+    gutenberg_agent_id: '56920'
+    url: http://www.gutenberg.org/2009/agents/56920
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gabriel_Bonvalot
+    - https://fr.wikipedia.org/wiki/Gabriel_Bonvalot
+description: ''
+gutenberg_issued: '2024-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73033'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015030541729
+pgterms:marc905: 20231119114656bonvalot
+pgterms:marc906: '1896'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from images made available
+  by the HathiTrust Digital Library and the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bFlammarion, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tibet Autonomous Region (China) -- Description and travel'
+- !lcsh 'Asia, Central -- Description and travel'
+- !lcc 'DS'
+- GITenberg
+title: 'L''Asie inconnue : $b à travers le Tibet'
+url: http://www.gutenberg.org/ebooks/73033
